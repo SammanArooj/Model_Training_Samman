@@ -39,8 +39,8 @@ The developed and deployed chatbot system
 </details>
  <details> 
 <summary> <h2>📚Code </h2> </summary>
-  
-| **1- Flask Code**|[![Code icon](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hostinger.com%2Ftutorials%2Flearn-coding-online-for-free&psig=AOvVaw1nHz_6Cd-nrVGIMfNGlvC7&ust=1710551534139000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCFjpeL9YQDFQAAAAAdAAAAABAJ)](https://drive.google.com/file/d/1UlvY47ZIJdv_AmXkJNrxtM1KGOTuQSMm/view?usp=drive_link)| 
+ |---| 
+| **1- Flask Code**|(https://drive.google.com/file/d/1UlvY47ZIJdv_AmXkJNrxtM1KGOTuQSMm/view?usp=drive_link)| 
 </details>   
 
 
