@@ -36,6 +36,13 @@ The developed and deployed chatbot system
 |---|---|---|
 | **1- Samman**|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://colab.research.google.com/drive/1vywb0pfrUa9g3-CwBkno8RpOPeq9c3p8)| [1](https://github.com/SammanArooj/Model_Training_Samman/blob/main/Model_Training_Samman.ipynb) |
 </details>
+<details> 
+<summary> <h2>📚Code </h2> </summary>
+
+| Code  | Code | 
+|---|---|
+| **1- Samman**|[Flask Code(https://drive.google.com/file/d/1UlvY47ZIJdv_AmXkJNrxtM1KGOTuQSMm/view?usp=drive_link) |
+</details>
 
 
             Together, let's make this the best AI learning hub website! 🚀
