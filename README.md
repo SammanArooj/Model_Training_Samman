@@ -24,9 +24,9 @@ The developed and deployed chatbot system
 <details> 
 <summary> <h2>📚Datasets</h2> </summary>
 
-| Dataset 1 | Trained Intent| Latest Intent |
+| Dataset 1 | Dataset 2| Dataset 3 |
 |---|---|---|
-|[**Student Frequently Asked Questions**](https://docs.google.com/spreadsheets/d/1h9rXxXZz2jjP-PIgt0lSizx_4qcZnrby/edit?rtpof=true#gid=1665551337)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://drive.google.com/file/d/1GHmm3ffgbYly020kJHsOCDeVHG1fKb2Z/view?usp=drive_link)|
+|[**Student Frequently Asked Questions**](https://docs.google.com/spreadsheets/d/1h9rXxXZz2jjP-PIgt0lSizx_4qcZnrby/edit?rtpof=true#gid=1665551337)|[**Trained Intent**](https://drive.google.com/file/d/1GHmm3ffgbYly020kJHsOCDeVHG1fKb2Z/view?usp=drive_link)|[**Latest Intent**](https://drive.google.com/file/d/1xz1bfvzCJGyuWF3zp47duYL8MEE70kzZ/view?usp=drive_link)
 </details>
   
  <details> 
