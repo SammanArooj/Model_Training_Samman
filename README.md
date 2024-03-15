@@ -34,7 +34,7 @@ The developed and deployed chatbot system
 
 | Code Name | Code | Code |
 |---|---|---|
-| **1-Samman**|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]([(https://github.com/SammanArooj/Model_Training_Samman/blob/main/Model_Training_Samman.ipynb)])| [1]([[https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view](https://drive.google.com/file/d/1GHmm3ffgbYly020kJHsOCDeVHG1fKb2Z/view?usp=drive_link)](https://drive.google.com/file/d/1UlvY47ZIJdv_AmXkJNrxtM1KGOTuQSMm/view?usp=sharing)) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]([https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb](https://colab.research.google.com/drive/1vywb0pfrUa9g3-CwBkno8RpOPeq9c3p8))|
+| **1- Samman**|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/SammanArooj/Model_Training_Samman/blob/main/Model_Training_Samman.ipynb)| [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 </details>   
 
 
