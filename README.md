@@ -44,13 +44,12 @@ The developed and deployed chatbot system
 | **1- Flask Code**|[1](https://drive.google.com/file/d/1UlvY47ZIJdv_AmXkJNrxtM1KGOTuQSMm/view?usp=drive_link) |
 </details>
 
-
-            Together, let's make this the best AI learning hub website! 🚀
-            
-                                  ![image](https://github.com/SammanArooj/Model_Training_Samman/assets/158844670/b39cbd2c-a0a8-461a-aa46-304950c0ec88)
-                                     To Do List:😊
-
-                                   1.
+                                           **  To Do List:**😊
+                                  1.
+                                  2.
+                                  3.
+                                  4
+                                 .
 
 
 
