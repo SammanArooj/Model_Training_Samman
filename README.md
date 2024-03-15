@@ -34,7 +34,7 @@ The developed and deployed chatbot system
 
 | Code Name | Code | Code |
 |---|---|---|
-| **1- Samman**|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://colab.research.google.com/drive/1vywb0pfrUa9g3-CwBkno8RpOPeq9c3p8)| [1](https://github.com/SammanArooj/Model_Training_Samman) |
+| **1- Samman**|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://colab.research.google.com/drive/1vywb0pfrUa9g3-CwBkno8RpOPeq9c3p8)| [1](https://github.com/SammanArooj/Model_Training_Samman/blob/main/Model_Training_Samman.ipynb) |
 </details>
 
 
