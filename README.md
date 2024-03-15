@@ -17,9 +17,10 @@ The collection and preparation of student frequently asked questions data for ML
 The developed and deployed chatbot system 
 
                                       Follow Coursesteach for more content 😊
-                              
- 
-                             |**Developing the Chatbot System to decrease workload in the e-Learning System**](https://coursesteach.com/mod/page/view.php?id=6984)|
+                                      | Chatbot blog on Coursesteach.com | 
+|---|
+|[**Extraneous comment management system**](https://coursesteach.com/mod/page/view.php?id=6984)|
+                            
 
 
 <details> 
