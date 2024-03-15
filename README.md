@@ -46,8 +46,11 @@ The developed and deployed chatbot system
 
 
             Together, let's make this the best AI learning hub website! 🚀
+            
+                                  ![image](https://github.com/SammanArooj/Model_Training_Samman/assets/158844670/b39cbd2c-a0a8-461a-aa46-304950c0ec88)
+                                     To Do List:😊
 
-
+                                   1.
 
 
 
