@@ -44,7 +44,7 @@ We would love your help in making this repository even better! if you have any s
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀
 
 <a href="https://github.com/hussain0048/Extraneous-comment-management-ECM-in-e-learning/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hussain0048/Extraneous-comment-management-ECM-in-e-learning" />
+ 
 </a>
 
 
