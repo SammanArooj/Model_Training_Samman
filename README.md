@@ -26,7 +26,7 @@ The developed and deployed chatbot system
 
 | Dataset 1 | Dtaset 2| Dataset 3 |
 |---|---|---|
-|[**Student Frequently Asked Questions**]([https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)](https://colab.research.google.com/drive/1vywb0pfrUa9g3-CwBkno8RpOPeq9c3p8)|[**1**]([https://drive.google.com/file/d/1c6plHK4Yqg_ch8QiNTtfGuSZSK0mt3lf/view](https://colab.research.google.com/drive/1vywb0pfrUa9g3-CwBkno8RpOPeq9c3p8))|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+|[**Student Frequently Asked Questions**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)|[**1**](https://drive.google.com/file/d/1c6plHK4Yqg_ch8QiNTtfGuSZSK0mt3lf/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 </details>
   
  <details> 
