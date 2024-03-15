@@ -26,16 +26,23 @@ The developed and deployed chatbot system
 
 | Dataset 1 | Dtaset 2| Dataset 3 |
 |---|---|---|
-|[**Student Frequently Asked Questions**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)|[**1**](https://drive.google.com/file/d/1c6plHK4Yqg_ch8QiNTtfGuSZSK0mt3lf/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+|[**Student Frequently Asked Questions**](https://docs.google.com/spreadsheets/d/1h9rXxXZz2jjP-PIgt0lSizx_4qcZnrby/edit?usp=drive_link&ouid=104526703272842409578&rtpof=true&sd=true)|[**Trained Intent**](https://drive.google.com/file/d/1m5V3qxNNHvICgPT_q_Nci5dkiLXB1-F5/view?usp=drive_link)|[**Latest Intent**](https://drive.google.com/file/d/1xz1bfvzCJGyuWF3zp47duYL8MEE70kzZ/view?usp=drive_link)|
 </details>
   
  <details> 
 <summary> <h2>📚Model training </h2> </summary>
 
-| Code Name | Code | Code |
-|---|---|---|
-| **1- Samman**|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/SammanArooj/Model_Training_Samman/blob/main/Model_Training_Samman.ipynb)| [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+| Code  | 
+|---|
+| **1- Flask Code**|[![Code icon](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hostinger.com%2Ftutorials%2Flearn-coding-online-for-free&psig=AOvVaw1nHz_6Cd-nrVGIMfNGlvC7&ust=1710551534139000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCFjpeL9YQDFQAAAAAdAAAAABAJ)](https://drive.google.com/file/d/1UlvY47ZIJdv_AmXkJNrxtM1KGOTuQSMm/view?usp=drive_link)| 
 </details>   
+<details> 
+<summary> <h2>📚Flask Code</h2> </summary>
+
+| Dataset 1 | Dtaset 2| Dataset 3 |
+|---|---|---|
+|[**Student Frequently Asked Questions**](https://docs.google.com/spreadsheets/d/1h9rXxXZz2jjP-PIgt0lSizx_4qcZnrby/edit?usp=drive_link&ouid=104526703272842409578&rtpof=true&sd=true)|[**Trained Intent**](https://drive.google.com/file/d/1m5V3qxNNHvICgPT_q_Nci5dkiLXB1-F5/view?usp=drive_link)|[**Latest Intent**](https://drive.google.com/file/d/1xz1bfvzCJGyuWF3zp47duYL8MEE70kzZ/view?usp=drive_link)|
+</details>
 
 
                        Together, let's make this the best AI learning hub website! 🚀
