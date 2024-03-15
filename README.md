@@ -41,7 +41,7 @@ The developed and deployed chatbot system
 
 | Code  | Code | 
 |---|---|
-| **1- Samman**|[Flask Code(https://drive.google.com/file/d/1UlvY47ZIJdv_AmXkJNrxtM1KGOTuQSMm/view?usp=drive_link) |
+| **1- Flask Code**|[1](https://drive.google.com/file/d/1UlvY47ZIJdv_AmXkJNrxtM1KGOTuQSMm/view?usp=drive_link) |
 </details>
 
 
