@@ -44,12 +44,9 @@ The developed and deployed chatbot system
 | **1- Flask Code**|[1](https://drive.google.com/file/d/1UlvY47ZIJdv_AmXkJNrxtM1KGOTuQSMm/view?usp=drive_link) |
 </details>
 
-                                           **  To Do List:**😊
-                                  1.
-                                  2.
-                                  3.
-                                  4
-                                 .
+   **  Usefull Links:**😊
+                                 
+                                
 
 
 
