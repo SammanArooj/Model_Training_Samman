@@ -45,7 +45,15 @@ The developed and deployed chatbot system
 </details>
 
 
-                                                               **Usefull Links**      
+<summary> <h2>Usefull Links </h2> </summary>
+[****Extraneous Comment Management System****](https://coursesteach.com/mod/page/view.php?id=6984) 
+
+  1.  [Learn to Train and Deploy a Real-Time Financial Advisor](https://github.com/iusztinpaul/hands-on-llms?tab=readme-ov-file) 
+2. 
+https://github.com/iusztinpaul/hands-on-llms?tab=readme-ov-file
+https://arxiv.org/abs/2310.11511?fbclid=IwAR1to5thaF8Of2zfNI6O5NeYj8yy7O7QPMzWfvvdMY2x11Hwf85gEgZ2wX8_aem_AVeTQAylHY0xJANFFpZqJBNS0yVMNX2EbYd3Yjvi1rN4o5dqcOX-VNthfqh7Ukv89EFfri29Eibfqa4vCwVY7fMi
+
+  
  
 
                                  
